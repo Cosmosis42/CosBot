@@ -1,0 +1,25 @@
+c:\bin\Release\CosBot.exe.config
+c:\bin\Release\CosBot.exe
+c:\bin\Release\CosBot.pdb
+c:\users\cosmo\onedrive\documents\visual studio 2015\Projects\CosBot\CosBot\obj\Release\CosBot.exe
+c:\users\cosmo\onedrive\documents\visual studio 2015\Projects\CosBot\CosBot\obj\Release\CosBot.pdb
+c:\users\cosmo\onedrive\documents\visual studio 2015\Projects\CosBot\CosBot\bin\Release\CosBot.exe.config
+c:\users\cosmo\onedrive\documents\visual studio 2015\Projects\CosBot\CosBot\bin\Release\CosBot.exe
+c:\users\cosmo\onedrive\documents\visual studio 2015\Projects\CosBot\CosBot\bin\Release\CosBot.pdb
+c:\users\cosmo\onedrive\documents\visual studio 2015\Projects\CosBot\CosBot\bin\Release\Discord.Net.dll
+c:\users\cosmo\onedrive\documents\visual studio 2015\Projects\CosBot\CosBot\bin\Release\Newtonsoft.Json.dll
+c:\users\cosmo\onedrive\documents\visual studio 2015\Projects\CosBot\CosBot\bin\Release\Nito.AsyncEx.Concurrent.dll
+c:\users\cosmo\onedrive\documents\visual studio 2015\Projects\CosBot\CosBot\bin\Release\Nito.AsyncEx.dll
+c:\users\cosmo\onedrive\documents\visual studio 2015\Projects\CosBot\CosBot\bin\Release\Nito.AsyncEx.Enlightenment.dll
+c:\users\cosmo\onedrive\documents\visual studio 2015\Projects\CosBot\CosBot\bin\Release\RestSharp.dll
+c:\users\cosmo\onedrive\documents\visual studio 2015\Projects\CosBot\CosBot\bin\Release\WebSocket4Net.dll
+c:\users\cosmo\onedrive\documents\visual studio 2015\Projects\CosBot\CosBot\bin\Release\Newtonsoft.Json.xml
+c:\users\cosmo\onedrive\documents\visual studio 2015\Projects\CosBot\CosBot\bin\Release\Nito.AsyncEx.xml
+c:\users\cosmo\onedrive\documents\visual studio 2015\Projects\CosBot\CosBot\bin\Release\Nito.AsyncEx.Concurrent.xml
+c:\users\cosmo\onedrive\documents\visual studio 2015\Projects\CosBot\CosBot\bin\Release\Nito.AsyncEx.Enlightenment.xml
+c:\users\cosmo\onedrive\documents\visual studio 2015\Projects\CosBot\CosBot\bin\Release\RestSharp.xml
+C:\Users\cosmo\OneDrive\Documents\Visual Studio 2015\Projects\CosBot\CosBot\bin\Release\Discord.Net.Audio.dll
+C:\Users\cosmo\OneDrive\Documents\Visual Studio 2015\Projects\CosBot\CosBot\bin\Release\Discord.Net.Commands.dll
+C:\Users\cosmo\OneDrive\Documents\Visual Studio 2015\Projects\CosBot\CosBot\bin\Release\Discord.Net.Modules.dll
+C:\Users\cosmo\OneDrive\documents\visual studio 2015\Projects\CosBot\CosBot\obj\Release\CosBot.Properties.Resources.resources
+C:\Users\cosmo\OneDrive\documents\visual studio 2015\Projects\CosBot\CosBot\obj\Release\CosBot.csproj.GenerateResource.Cache

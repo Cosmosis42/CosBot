@@ -1,0 +1,48 @@
+{
+  "modules": [
+    {
+      "name": "colors",
+      "server": [
+        173557002033692672,
+        172891254961471488
+      ]
+    },
+    {
+      "name": "rng",
+      "server": [
+        172891254961471488,
+        173557002033692672,
+        106450725239836672
+      ]
+    },
+    {
+      "name": "admin",
+      "server": [
+        173557002033692672,
+        172891254961471488,
+        106450725239836672
+      ]
+    },
+    {
+      "name": "chatterbot",
+      "server": [
+        173557002033692672,
+        172891254961471488
+      ]
+    },
+    {
+      "name": "convo",
+      "server": [
+        172891254961471488
+      ]
+    }
+  ],
+  "rules": {
+    "server": [
+      172891254961471488
+    ],
+    "ruleMessage": [
+      "No excessive swearing\nNo excessive spamming\nNo pornography\nNo harassment or threatening\nNo personal attacks\nNo taking offense\nNo being overly stubborn\nWhat happens at the <#192899636980219904> stays in the <#192899636980219904> \nRespect the Admin/Mods\nMemes welcomed in moderation\nHave Fun!\n\nOh, and whatever Arturia does is always wrong."
+    ]
+  }
+}

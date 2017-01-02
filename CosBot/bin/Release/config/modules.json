@@ -1,0 +1,38 @@
+{
+  "modules": [
+    {
+      "name": "colors",
+      "server": [
+        11111111111111111,
+      ]
+    },
+    {
+      "name": "rng",
+      "server": [
+      ]
+    },
+    {
+      "name": "admin",
+      "server": [
+      ]
+    },
+    {
+      "name": "chatterbot",
+      "server": [
+      ]
+    },
+    {
+      "name": "convo",
+      "server": [
+      ]
+    }
+  ],
+  "rules": {
+    "server": [
+    ],
+    "ruleMessage": [
+      "No excessive swearing\nNo excessive spamming\nNo excessive bashing\nNo pornography\nNo harassment or threatening\nNo personal attacks\nDon't be offensive, and remember to not take offense where offense isn't meant\nWhat happens at the <#194752795235057664> stays in the <#194752795235057664>\nRespect the Admin/Mods\nMemes welcomed in moderation\nHave Fun!",
+      "NO SPAM!"
+    ]
+  }
+}
